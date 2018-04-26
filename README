@@ -1,0 +1,4 @@
+# HttpURLConnection
+HttpURLCOnnection+Cookie+SessionID
+
+在实现一个简单登录的过程中。。。。发现android已经弃用了HttpClient，然后我又没学过okHttp。所以尝试着用HttpURLConnection处理Cookie和页面重定向问题。
